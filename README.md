@@ -1,2 +1,11 @@
 # can-code
-a simple python code which includes addition,subtraction,multiplication,quotient and reminder value.
+# a simple python code which includes addition,subtraction,multiplication,quotient and reminder value.
+print('Welcome to Calculator') #print('') is used to print string  
+a,b=input("enter any 2 numbers: ").split() #input() is used for user input,  #split is used to give values for each function without any error 
+a=int(a) #variable a is defined by integer"int"
+b=int(b) #variable b is defined by integer"int" 
+print("addition of these 2 numbers=",a+b) 
+print("subtraction of these 2 these numbers=",a-b)
+print("multiplication of these 2 numbers=",a*b)
+print("qoutient of these 2 numbers=", a/b)
+print("reminder of these 2 numbers=",a%b)

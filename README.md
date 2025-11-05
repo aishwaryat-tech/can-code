@@ -1,4 +1,4 @@
-# can-code
+# calculator in python
 # a simple python code which includes addition,subtraction,multiplication,quotient and reminder value.
 print('Welcome to Calculator') #print('') is used to print string  
 a,b=input("enter any 2 numbers: ").split() #input() is used for user input,  #split is used to give values for each function without any error 

@@ -7,5 +7,5 @@ b=int(b) #variable b is defined by integer"int"
 print("addition of these 2 numbers=",a+b) 
 print("subtraction of these 2 these numbers=",a-b)
 print("multiplication of these 2 numbers=",a*b)
-print("qoutient of these 2 numbers=", a/b)
+print("quotient of these 2 numbers=", a/b)
 print("reminder of these 2 numbers=",a%b)
